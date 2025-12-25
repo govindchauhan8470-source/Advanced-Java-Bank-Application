@@ -1,0 +1,14 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build folders
+build/
+target/
+
+# Database config
+*.properties
+
+# Jar files
+*.jar
